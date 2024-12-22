@@ -1,4 +1,3 @@
-import { skeleton } from '../../utils';
 
 interface IntroductionCardProps {
   contents: string[];

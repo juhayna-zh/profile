@@ -104,7 +104,7 @@ const PublicationCard = ({
                     </p>
                   )}
                   {item.description && (
-                    <p className="mt-2 text-base-content text-opacity-60 text-xs text-justify text-gray-500" style={{'-webkit-line-clamp': '3', '-webkit-box-orient': 'vertical', 'display': '-webkit-box', 'overflow': 'hidden'}}>
+                    <p className="mt-2 text-base-content text-opacity-60 text-xs text-justify text-gray-500 line-clamp-3">
                       {item.description}
                     </p>
                   )}

@@ -185,9 +185,9 @@ const GitProfile = ({ config }: { config: Config }) => {
       <div className="fade-in h-screen">
         {false && error ? (
           <ErrorPage
-            status={error.status}
-            title={error.title}
-            subTitle={error.subTitle}
+            status={error?.status||500}
+            title={error?.title||'Oops!!'}
+            subTitle={error?.subTitle||'Something went wrong.'}
           />
         ) : (
           <>
