@@ -103,7 +103,7 @@ const CONFIG = {
     {
       company: 'Shanghai Jiao Tong University',
       position: 'Master student @ Computer Science and Technology major',
-      from: 'July 2024',
+      from: 'Sept 2024',
       to: 'Present',
       companyLink: 'https://en.sjtu.edu.cn/',
     },
@@ -125,7 +125,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'CET-6 passed',
-      body: 'College English Test, 604 points',
+      body: 'College English Test, 601 points',
       year: '2021.06',
       link: '',
     },
