@@ -81,7 +81,7 @@ const CONFIG = {
     bilibili: '636526505',
   },
   resume: {
-    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://bit.ly/hainaCV', // Empty fileUrl will hide the `Download Resume` button.
     selfIntro: 'Hello👋, I am Haina Zhu. A researcher in music and artificial intelligence.'
   },
   introduction: {
