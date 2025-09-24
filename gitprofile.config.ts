@@ -101,6 +101,13 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'MiniMax',
+      position: 'Research Intern @ Audio Model Tech Department',
+      from: 'Aug 2025',
+      to: 'Present',
+      companyLink: 'https://www.minimax.io/',
+    },
+    {
       company: 'Shanghai Jiao Tong University',
       position: 'Master student @ Computer Science and Technology major',
       from: 'Sept 2024',
@@ -111,7 +118,7 @@ const CONFIG = {
       company: 'Tencent AI Lab',
       position: 'Internship @ Multimodal Generation Research Group',
       from: 'Sept 2023',
-      to: 'Present',
+      to: 'Aug 2025',
       companyLink: 'https://ailab.tencent.com/ailab/en/index/',
     },
     {
@@ -124,14 +131,14 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'CET-6 passed',
+      name: 'CET-6',
       body: 'College English Test, 601 points',
       year: '2021.06',
       link: '',
     },
     {
       name: 'RoboCup China Open, National Second Prize',
-      body: 'held by Chinese Association of Automation',
+      body: 'Held by Chinese Association of Automation',
       year: '2022.11',
       link: '',
     },
@@ -139,6 +146,12 @@ const CONFIG = {
       name: 'CCF-CSP scores 315',
       body: 'Certified Software Professional, Program Language: C/C++',
       year: '2023.09',
+      link: '',
+    },
+    {
+      name: 'JLPT N2',
+      body: 'Japanese-Language Proficiency Test, N2 Certified',
+      year: '2025.08',
       link: '',
     },
   ],
@@ -160,7 +173,7 @@ const CONFIG = {
     {
       title: 'MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization',
       conferenceName: '',
-      journalName: '',
+      journalName: 'IEEE TASLP',
       authors: '<b>Haina Zhu</b>, Yizhi Zhou, Hangting Chen, Jianwei Yu, Ziyang Ma, Rongzhi Gu, Yi Luo, Wei Tan, Xie Chen',
       link: 'https://github.com/tencent-ailab/MuQ',
       description:
@@ -168,7 +181,7 @@ const CONFIG = {
     },
     {
       title: 'LeVo: High-Quality Song Generation with Multi-Preference Alignment',
-      conferenceName: '',
+      conferenceName: 'NeurIPS 2026 accepted',
       journalName: '',
       authors: 'Shun Lei, Yaoxun Xu, Zhiwei Lin, Huaicheng Zhang, Wei Tan, Hangting Chen, Jianwei Yu, Yixuan Zhang, Chenyu Yang, <b>Haina Zhu</b>, Shuai Wang, Zhiyong Wu, Dong Yu',
       link: 'https://github.com/tencent-ailab/songgeneration',
@@ -187,7 +200,7 @@ const CONFIG = {
     {
       title: 'Socially Aware Object Goal Navigation With Heterogeneous Scene Representation Learning',
       conferenceName: '',
-      journalName: 'IEEE Robotics and Automation Letters (RA-L)',
+      journalName: 'IEEE RA-L',
       authors: 'Bolei Chen, <b>Haina Zhu</b>, Shengkang Yao, Siyi Lu, Ping Zhong, Yu Sheng, Jianxin Wang',
       link: 'https://ieeexplore.ieee.org/abstract/document/10556584/',
       description:
