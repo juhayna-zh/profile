@@ -88,7 +88,7 @@ const CONFIG = {
     contents: [
       'I am Haina Zhu, a master student in Shanghai Jiao Tong University (SJTU). I am currently a member of <a href="https://x-lance.github.io/"><u>X-LANCE Lab</u></a>, under the guidance of <a href="https://chenxie95.github.io/"><u>Prof. Xie Chen</u></a>. Before entering SJTU, I received my bachelor degree from Central South University in 2024.',
       'My major is computer science and technology, and I focus on the research of artificial intelligence application in audio and music processing. My current research interests include music generation, music understanding, self-supervised learning, speech and audio signal processing, and multimodal AI applications.',
-      `Besides, I'm also an amateur poet (writing <a href="https://en.wikipedia.org/wiki/Chinese_poetry"><i>shici</i></a> and <a href="https://en.wikipedia.org/wiki/Haiku"><i>haiku</i></a>), a lover of classical and rock music, and an anime enthusiast fond of visual novels.`,
+      `Besides, I'm also an amateur poet (writing <a href="https://en.wikipedia.org/wiki/Chinese_poetry"><i>shici</i></a> and <a href="https://en.wikipedia.org/wiki/Haiku"><i>haiku</i></a>), a lover of classical and rock music, and an anime enthusiast fond of visual novels. My recent poetry is listed <a href="https://sjtuguoxue.space/author/30"><u>here</u></a>.`,
       '<b>Dedicated to solving critical problems in music AI, </b>',
       '<b>by integrating engineering and innovative approaches. </b>'
     ],
