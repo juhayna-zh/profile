@@ -101,10 +101,17 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Alibaba Token Foundry',
+      position: 'Research Intern @ Tongyi Lab ATH',
+      from: 'May 2026',
+      to: 'Present',
+      companyLink: 'https://tongyi.aliyun.com/',
+    },
+    {
       company: 'MiniMax',
       position: 'Research Intern @ Audio Model Tech Department',
       from: 'Aug 2025',
-      to: 'Present',
+      to: 'Apr 2026',
       companyLink: 'https://www.minimax.io/',
     },
     {
